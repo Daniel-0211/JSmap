@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Item01">google地圖</string>
+    <string name="Item02">樹莓派4B入門</string>
+    <string name="prompt_select_location">請選擇地點</string>
+    <string name="showlocid">顯示目前位置</string>
+    <string name="tNavigation">路徑規劃</string>
+
+    <string name="b_off">開啟路徑規劃</string>
+    <string name="b_on">關閉路徑規劃</string>
+</resources>
